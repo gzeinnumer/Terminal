@@ -18,6 +18,19 @@ brew install android-platform-tools
 adb devices
 ```
 
+#### Mysql
+```
+/Applications/xampp/xamppfiles/bin/mysql -u root -p
+```
+
+#### Finder
+
+[Source](https://macpaw.com/how-to/access-bin-folder-mac)
+
+<pre>
+<img src="https://github.com/gzeinnumer/Terminal/blob/master/preview/preview1.png" width="300">
+</pre>
+
 ---
 
 ```
