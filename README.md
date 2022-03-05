@@ -25,6 +25,9 @@ adb devices
 ```
 mysql -u [user] -p [database_name] < [filename].sql
 ```
+```
+https://github.com/mydumper/mydumper
+```
 
 #### Finder
 
