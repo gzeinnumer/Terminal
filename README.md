@@ -51,6 +51,12 @@ brew install shivammathur/php/php@7.2
 <img src="https://github.com/gzeinnumer/Terminal/blob/master/preview/preview1.png" width="300">
 </pre>
 
+hellotech.com/guide/for/how-to-change-where-screenshots-are-saved-on-mac
+
+#### Putty On Mac
+
+https://www.youtube.com/watch?v=EdngKcoTnF0&ab_channel=OpenGovHub
+
 ---
 
 ```
