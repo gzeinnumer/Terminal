@@ -5,16 +5,22 @@
 #### Hidden File
 ```
 defaults write com.apple.Finder AppleShowAllFiles true
+```
+```
 killall Finder
-
+```
+```
 defaults write com.apple.Finder AppleShowAllFiles false
+```
+```
 killall Finder
 ```
 
 #### ADB Driver
 ```
 brew install android-platform-tools
-
+```
+```
 adb devices
 ```
 
@@ -44,6 +50,8 @@ brew link php@8.1 --force --overwrite
 #### PHP 7.2
 ```
 brew tap shivammathur/php
+```
+```
 brew install shivammathur/php/php@7.2
 ```
 
