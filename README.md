@@ -61,9 +61,16 @@ brew install shivammathur/php/php@7.2
 
 hellotech.com/guide/for/how-to-change-where-screenshots-are-saved-on-mac
 
+#
 #### Putty On Mac
 
 https://www.youtube.com/watch?v=EdngKcoTnF0&ab_channel=OpenGovHub
+
+#
+#### Ipconfig in mac
+```
+ipconfig getifaddr en0
+```
 
 ---
 
