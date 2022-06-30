@@ -72,6 +72,14 @@ https://www.youtube.com/watch?v=EdngKcoTnF0&ab_channel=OpenGovHub
 ipconfig getifaddr en0
 ```
 
+#
+#### Composer PHP
+
+Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.2". You are running 7.4.27.
+```
+composer install --ignore-platform-reqs
+```
+
 ---
 
 ```
