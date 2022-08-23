@@ -2,6 +2,12 @@
 
 #Mac
 
+#
+#### Ipconfig in mac
+```
+ipconfig getifaddr en0
+```
+
 #### Hidden File
 ```
 defaults write com.apple.Finder AppleShowAllFiles true
@@ -65,12 +71,6 @@ hellotech.com/guide/for/how-to-change-where-screenshots-are-saved-on-mac
 #### Putty On Mac
 
 https://www.youtube.com/watch?v=EdngKcoTnF0&ab_channel=OpenGovHub
-
-#
-#### Ipconfig in mac
-```
-ipconfig getifaddr en0
-```
 
 #
 #### Composer PHP
