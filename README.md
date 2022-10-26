@@ -8,6 +8,18 @@
 ipconfig getifaddr en0
 ```
 
+#
+#### Enviroment
+```
+alias mysql=/Applications/XAMPP/bin/mysql
+```
+```
+alias flutter=/Users/mfadlizein/Documents/GitHub/sdk/flutter/bin/flutter
+```
+```
+mysql -v
+```
+
 #### Hidden File
 ```
 defaults write com.apple.Finder AppleShowAllFiles true
@@ -78,6 +90,15 @@ https://www.youtube.com/watch?v=EdngKcoTnF0&ab_channel=OpenGovHub
 Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.2". You are running 7.4.27.
 ```
 composer install --ignore-platform-reqs
+```
+
+#
+#### Pods
+```
+pod init
+```
+```
+pod install
 ```
 
 ---
