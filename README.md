@@ -130,6 +130,34 @@ pod init
 pod install
 ```
 
+#
+
+#### PWD
+
+```
+mfadlizein@MacBook-Pro-Zein ~ % code .zprofile
+mfadlizein@MacBook-Pro-Zein ~ % cd /Library/Java/JavaVirtualMachines
+mfadlizein@MacBook-Pro-Zein JavaVirtualMachines % ls
+temurin-17.jdk
+mfadlizein@MacBook-Pro-Zein JavaVirtualMachines % cd temurin-17.jdk
+mfadlizein@MacBook-Pro-Zein temurin-17.jdk % pwd
+/Library/Java/JavaVirtualMachines/temurin-17.jdk
+mfadlizein@MacBook-Pro-Zein temurin-17.jdk %
+```
+
+<img src="/preview/preview2.png" width="300">
+
+#
+
+#### EXPORT
+
+```
+mfadlizein@MacBook-Pro-Zein ~ % code .zprofile
+```
+
+<img src="/preview/preview3.png" width="300">
+
+
 ---
 
 ```
